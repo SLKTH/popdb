@@ -1,15 +1,13 @@
-Intended as a data collection for registering and indexing performances of artists that have performed in a cool and historic music venue. (Simplon)
+##pos-system
+
+Intended as a data collection for registering and indexing performances and artists that have performed in a legendary and historic music and night club. (Simplon)
 
 The data model has the following functionalities:
- 1. add performances 
- 2.  that contain artists
- 3.  which fits into a certain genre: 
-     either through a fixed amount of genres of which one is related
- 	                              (or loosen up) ((3.5))  and/or maybe with tags (I just thought about this, doesn it sound awesome?)
- 4. and comes from a certain Country		
- 		
- 5. store (links to) images, video or sound in someway
- 
+ 1.  add **performances** 
+ 2.  that contain **artists**
+ 3.  which fit into **genres** 
+ 4.  and come from certain **countries**	
+ 5.  alongside with **media** (images, sounds and films found through desk research)
 
 Users are able to:
 
@@ -22,4 +20,4 @@ Deep goals are:
 
 - Chart and find statistics and get an insight of Simplon's  accumulated identity through (historic) data about performances
 - Find stories to tell (new) audience by old visitors 
-- Find out which bands, producers or DJ's are to make a comeback to Simplon (grading or star system?)  
+- Find out which bands, producers or DJ's are to make a comeback to Simplon (user grading, poll or favoriting system?)  
